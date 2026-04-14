@@ -1,4 +1,5 @@
 # Домашнее задание к лекции «`ArrayBuffer`»
+[![NodeJS with Webpack](https://github.com/Elen87/ArrayBuffer-legend/actions/workflows/webpack.yml/badge.svg)](https://github.com/Elen87/ArrayBuffer-legend/actions/workflows/webpack.yml)
 
 **Важно**: каждая задача выполняется в виде отдельного проекта с собственным GitHub репозиторием.
 
